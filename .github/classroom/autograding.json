@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Testing con jest",
+      "setup": "",
+      "run": "npm test -- --config=jest.config.js",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 30,
+      "points": 20
+    }
+  ]
+}
