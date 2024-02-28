@@ -1,0 +1,17 @@
+Listado de rutas de carpetas
+El número de serie del volumen es 6C86-FDDD
+C:.
+├───dist
+│   ├───modules
+│   │   └───request-log
+│   ├───posts
+│   └───profile
+├───node_modules
+|---test
+├───src
+│   ├───modules
+│   │   └───request-log
+│   ├───posts
+│   └───profile
+├───test
+└───Tutoriales
